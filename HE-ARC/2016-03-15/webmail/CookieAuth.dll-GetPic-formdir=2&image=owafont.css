@@ -1,0 +1,287 @@
+body, textarea
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size:70%;
+}
+input, select, pre
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+.bld, .ur
+{
+	font-weight:bold;
+}
+.nbMnuItm
+{
+	font-weight:bold;
+}
+input, select, pre
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+.bld, div.vlv .ur
+{
+	font-weight:bold;
+}
+#divBrandBtns
+{
+	font-size: 100%;
+}
+.fromSdr
+{
+	font-size:120%;
+}
+
+.readSubj 
+{
+	font-size:12pt;
+	font-weight:bold;
+	font-family:Arial;
+}
+
+.pvwFrom, .pvwMpFrom
+{
+	font-size:130%;
+	font-family:Arial;
+}
+
+.fbBiu 
+{
+	font-family:Courier New;
+	font-size:17px;
+}
+
+/* Table containing grid of color cells */
+table#tblPckr 
+{
+	font-size:0px;
+}
+
+/* Misc elements that can appear inside of a recipient well */
+.rwW a, .rwW strong, .rwW em, .rwW u 
+{
+	font-weight:normal;
+	font-style:normal;
+}
+
+td#svRemTop 
+{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:130%;
+}
+
+.dyTms 
+{
+	font-size:xx-small;
+}
+
+/* Week number cell */
+.dpWN 
+{
+	font-size:7.5pt;
+}
+
+/* Freebusy free */
+.fb0 
+{
+	font-weight:normal;
+}
+
+.timeStripLeft
+{
+	font-size:175%;
+}
+
+/* Day number in view header */
+#divDailyViewDateName, #divMonthlyViewDateName 
+{
+	font-weight:bold;
+	font-size:125%;
+}
+
+/* gh - group header */
+/* Note: tr.gh background color is defined above the selection styles, so 
+that it doesn't override them */
+.tdHdr 
+{
+	font-family:Arial;
+	font-size:160%;
+}
+
+/* A button on the compose font control */
+div#divCmpFnt span span 
+{
+	font-weight:bold;
+	font-size:17px;
+	font-family:Courier New;
+}
+
+/* read contact titlebar displayname */
+span.nm 
+{
+	font-size:130%;
+	font-weight:bold;
+}
+
+.abArrw 
+{
+	font-family:Courier New;
+}
+
+.mid 
+{
+	font-size:70%;
+}
+
+.tdCopy 
+{
+	font-size:80%;
+}
+
+input#txtcp 
+{
+	font-size:100%;
+	font-family:Tahoma, Arial, Helvetica;
+}
+
+.rcpLwr .tck td,    /* read AD free/busy scroll bar hour cell section */
+.dyTmsAd .hrs td   /* read AD free/busy scroll bar time section */
+{
+	width:36px;
+}
+.rcpHdrAd tr.t td, #tys td
+{
+	width:37px;
+}
+
+/* Attachment well in read */
+/* Root recipient well div */
+/* Font height div */
+/* Time strip right cell containing decoration */
+/* div container of image and input */
+/* textbox for create new / rename folder */
+/* Folder list 'create new folder' input box */
+/* Logon.css styles */
+select, input, textarea, button, label, table, pre, 
+div#divTr, .awRW, .awRO, .rwW, .edtSubj,
+textarea#taAn, table#tblErr, td#tdErrHdCt, div#divFH, .timeStripRight,
+div#divNFld, div#divRFld, input#txtNFld, input#txtFldN, .edtTsk, 
+body.owaLgnBdy 
+{
+	font-size:100%;
+}
+
+input, select, pre, button 
+{
+	font-family:Tahoma,Arial,Helvetica;
+}
+
+/* DL recipient */
+/* Date picker month cell - busy day */
+/* Free/busy tentative/busy/oof */
+/* Subject text in visual */
+/* gh - group header */
+/* Note: tr.gh background color is defined above the selection styles, so 
+that it doesn't override them */
+/* Voice Message Audio Notes td*/
+/* read contact section column */
+/* read contact line under address section header columns */
+/* notification header bold subject text */
+/* AD organization tree person heading */
+/* Title of a section in the form*/
+/* Cell with title of a field in details section */
+/* Cell with title of a field in details section (rtl) */
+/* Section separator cell (with title) */
+/* Date picker month cell - busy day */
+.bld, .ur, .nwItmTxtFrm, span.bld, .fbLbl, 
+.rwDL, .moSctTxt, .lyt .hdr, .lyt .sugHdr, 
+.dyTms .dy, table#tblDpM td.b, .fb1, .visSbj, tr.gh td, 
+.bold, span#spnPn, table#tblCnts .sct, 
+table#tblCnts .bLn, div#divNtfyItmSb, .adMgHd, .cntTabCT,
+.cntDetPT, body.rtl .cntDetPT, .cntSepT, #spnMbQtUsg, 
+.pvwLabel, .pvwLblMdl, td.pvwLblMdl 
+{
+	font-weight:bold;
+}
+
+#divSubj, #divMN
+{
+	font-family:Arial;
+	font-size:12pt;
+	font-weight:bold;
+}
+
+/* Font color for new value of modified props from meeting update highlight  
+*/
+.updNew, .fbItalics, span#spnCmpI 
+{
+	font-style:italic;
+}
+
+/* Open as web page link in attachment well */
+.wvsn, .rtl .wvsn 
+{
+	font:normal 85% Tahoma, Sans Serif, Arial;
+}
+
+.errDesc #errMsg, .errHd 
+{
+	font-size:130%;
+}
+
+/* Date picker div -- in drop down mode */
+.dp, .dpDD 
+{
+	font-size:8pt;
+}
+
+/* Address Book and contact multi-line list view styles */
+/* Information column */
+/* Notes text area */
+.mlIL span#abc, .txtBdy, .cntNot 
+{
+	font-family:Tahoma,Arial,Helvetica;
+	font-size:100%;
+}
+
+.mbqtTxt, input.btn, .btnOnFcs, .btnOnMseOvr, .btnOnMseDwn 
+{
+	font-size:95%;
+}
+
+/* Webready.css */
+.tbWIB, .tbEIB 
+{
+	font:normal 95% Tahoma, Sans Serif, Arial;
+}
+.userTileTxt
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarUserTextFontSize;
+}
+#divLogOff
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarSignOutFontSize;
+}
+#divBrandOrgName
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarCoBrandFontSize;
+}
+#divBrandOrgLive
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarIngrediantFontSize;
+}
+.brandBarLink
+{
+	font-family: $BrandbarFontFace;
+	font-size: $BrandbarLinksFontSize;
+}
+#divMdNm
+{
+	font-family: Arial Black, Gadget, sans-serif;
+	font-size: 17pt;
+}
