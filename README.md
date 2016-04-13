@@ -12,4 +12,4 @@ The flaws exposed here are not exploited in a way that could harm users. However
 - I also believe that the people in charge will be able to fix those faster if they are aware that people are aware.
 - Plus those flows can sometimes be reproduced on other systems, it's good for them too to know what is done elsewhere.
 
-# test signing this GPG commit
+# test signing this GPG commit again
